@@ -1,4 +1,5 @@
-nopCommerce - open source shopping cart
+nopCommerce - open source shopping cart   
+[![Build status](https://ci.appveyor.com/api/projects/status/uacl3s67c2as85he?svg=true)](https://ci.appveyor.com/project/huoxudong125/nopcommerce)
 ============
 
 nopCommerce is open-source ecommerce solution. It's stable and highly usable. nopCommerce is an open source ecommerce solution that is ASP.NET (MVC) based with a MS SQL 2008 (or higher) backend database. Our easy-to-use shopping cart solution is uniquely suited for merchants that have outgrown existing systems, and may be hosted with your current web host or our hosting partners. It has everything you need to get started in selling physical and digital goods over the internet. nopCommerce offers unprecedented flexibility and control.
